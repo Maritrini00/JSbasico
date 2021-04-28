@@ -11,4 +11,4 @@ califas.sort((a, b) => a - b);
 let lowMiddle = Math.floor((califas.length - 1) / 2);
 let highMiddle = Math.ceil((califas.length - 1) / 2);
 let median = (califas[lowMiddle] + califas[highMiddle]) / 2;
-console.log(`Promedio de María: ${median}`);
+console.log(`Media de María: ${median}`);
