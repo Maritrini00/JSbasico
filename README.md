@@ -4,8 +4,8 @@
 (mucho stackOverflow tbh)
 
 ## Resuelve los siguiente problemas utilizando javascript
-1.- Hacer un programa que imprima los números del 1 al 100.
-##
+```bash
+1.- Hacer un programa que imprima los números del 1 al 100. 
 2.- Hacer un programa que imprima los números del 100 al 0, en orden decreciente.
 3.- Hacer un programa que imprima los números pares entre 0 y 100.
 4.- Hacer un programa que imprima la suma de los 100 primeros números.
@@ -80,3 +80,4 @@ cuantas veces deseemos.
 introduciremos por teclado.
 45.- Tenemos el archivo DATOS.DAT con la misma estructura anterior, que esta indexado por el
 campo ID. Crear un programa que nos permita consultar un registro siempre que queramos.
+```
